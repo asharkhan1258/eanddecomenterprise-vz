@@ -180,7 +180,7 @@
 
         &::before {
            @include before;
-           background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, (#063232) 84.04%);
+           background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, (#1E3A8A) 84.04%);
            opacity: 0;
            visibility: hidden;
            @include transition;
