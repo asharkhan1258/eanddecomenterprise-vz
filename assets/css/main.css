@@ -5213,6 +5213,7 @@ span {
 
 .hero-1 {
   padding: 220px 0 80px;
+  text-transform: none;
 }
 @media (max-width: 1199px) {
   .hero-1 {
